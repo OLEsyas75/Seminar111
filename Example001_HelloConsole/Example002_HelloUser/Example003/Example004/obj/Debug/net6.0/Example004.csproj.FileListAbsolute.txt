@@ -1,0 +1,15 @@
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/bin/Debug/net6.0/Example004
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/bin/Debug/net6.0/Example004.deps.json
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/bin/Debug/net6.0/Example004.runtimeconfig.json
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/bin/Debug/net6.0/Example004.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/bin/Debug/net6.0/Example004.pdb
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.csproj.AssemblyReference.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.AssemblyInfoInputs.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.AssemblyInfo.cs
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.csproj.CoreCompileInputs.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/refint/Example004.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.pdb
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/Example004.genruntimeconfig.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/Example004/obj/Debug/net6.0/ref/Example004.dll
