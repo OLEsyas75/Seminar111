@@ -1,0 +1,15 @@
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/bin/Debug/net6.0/Example003
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/bin/Debug/net6.0/Example003.deps.json
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/bin/Debug/net6.0/Example003.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/bin/Debug/net6.0/Example003.pdb
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/refint/Example003.dll
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.pdb
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
+/Users/nezzznaika/Documents/Examples/Example001_HelloConsole/Example002_HelloUser/Example003/obj/Debug/net6.0/ref/Example003.dll
